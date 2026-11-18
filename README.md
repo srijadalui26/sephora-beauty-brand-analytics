@@ -1,5 +1,7 @@
 # Sephora Beauty Brand Analytics 
+## Dashboard Preview
 
+![Sephora Beauty Brand Analytics Dashboard](dashboard_preview.png)
 A data analytics project exploring Sephora beauty products using Python and Microsoft Power BI.
 
 ## 📌 Project Overview
