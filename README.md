@@ -1,4 +1,4 @@
-# Sephora Beauty Brand Analytics 💄
+# Sephora Beauty Brand Analytics 
 
 A data analytics project exploring Sephora beauty products using Python and Microsoft Power BI.
 
@@ -6,7 +6,7 @@ A data analytics project exploring Sephora beauty products using Python and Micr
 
 This project analyses Sephora's beauty product data to understand brand representation, product categories, customer ratings, pricing and product popularity.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Explore the Sephora product dataset.
 - Identify brands with the highest number of listed products.
@@ -15,7 +15,7 @@ This project analyses Sephora's beauty product data to understand brand represen
 - Explore product popularity using loves count.
 - Present insights through an interactive Power BI dashboard.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** – Data cleaning and exploratory data analysis
 - **Pandas** – Data manipulation
@@ -23,7 +23,7 @@ This project analyses Sephora's beauty product data to understand brand represen
 - **Microsoft Power BI** – Dashboard creation
 - **GitHub** – Project documentation and hosting
 
-## 📊 Key Findings
+## Key Findings
 
 - The dataset contains **8,494 beauty products**.
 - Products belong to **304 different brands**.
@@ -31,12 +31,12 @@ This project analyses Sephora's beauty product data to understand brand represen
 - Sephora Collection has the highest number of listed products (**352**), followed by Clinique (**179**) and Dior (**136**).
 - Loves count can help indicate product interest, but it does not represent actual sales.
 
-## 📁 Project Files
+## Project Files
 
 - `Beauty_Brand_Analytics.pbix` – Power BI dashboard
 - `beauty_products_analysis (1).csv` – Cleaned analysis dataset
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. Study popular brands to understand product representation.
 2. Use category-wise analysis to improve product discovery.
@@ -44,7 +44,7 @@ This project analyses Sephora's beauty product data to understand brand represen
 4. Compare category pricing to understand product positioning.
 5. Use popularity indicators alongside customer feedback to identify products attracting interest.
 
-## 👩‍💻 About This Project
+## About This Project
 
 Created as my first data analytics portfolio project while learning Data Science and AI/ML.
 
